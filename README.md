@@ -11,10 +11,6 @@ A modern, responsive web application that allows users to discover, search, and 
 - 🌙 Light/Dark mode toggle (optional)
 - ❤️ Add to Favorites (optional with localStorage or backend support)
 
-## 🖼️ Demo
-
-[Live Demo Link](https://your-demo-url.com)  
-*(Replace with your deployed app URL)*
 
 ## 🛠️ Tech Stack
 
