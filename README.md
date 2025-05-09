@@ -8,7 +8,7 @@ A modern, responsive web application that allows users to discover, search, and 
 - 🏆 View trending, top-rated, and upcoming movies
 - 🎥 Detailed movie pages with poster, description, rating, genres, and release date
 - 📱 Fully responsive design (mobile, tablet, desktop)
-- 🌙 Light/Dark mode toggle (optional)
+- 🌙 Light/Dark mode toggle
 - ❤️ Add to Favorites (optional with localStorage or backend support)
 
 
