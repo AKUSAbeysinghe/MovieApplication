@@ -66,10 +66,4 @@ Edit
 npm start
 This will start the app at http://localhost:3000.
 
-csharp
-Copy
-Edit
 
-✅ You can now paste this as-is into your README file — no formatting issues.
-
-Need help generating the `.env` file too?
