@@ -4,10 +4,11 @@ A React-based application that allows users to explore and discover movies using
 
 ## Demo
 
-[Link to Live Demo (if applicable)](https://yourliveapp.com)
+[Link to Live Demo (if applicable)](https://)
 
 ## Features
 
+- Login to main view
 - Display a list of popular movies.
 - Search for movies by title.
 - View detailed information about each movie (release date, rating, description).
