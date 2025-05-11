@@ -4,7 +4,7 @@ A React-based application that allows users to explore and discover movies using
 
 ## Demo
 
-[Link to Live Demo (if applicable)](https://)
+[Link to Live Demo ](https://)
 
 ## Features
 
@@ -29,5 +29,5 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/movie_application.git
+   git clone https://https://github.com/AKUSAbeysinghe/MovieApplication.git
 
