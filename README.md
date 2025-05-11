@@ -6,6 +6,14 @@ A React-based application that allows users to explore and discover movies using
 
 [Link to Live Demo ](https://)
 
+![7457](https://github.com/user-attachments/assets/55aa664d-c253-44b8-87e1-b03e18ab0fb8)
+
+![1](https://github.com/user-attachments/assets/38d7c0ed-d0c9-49a0-886f-37ca0f859d66)
+
+![2](https://github.com/user-attachments/assets/d18c4efc-8f46-49ba-9108-fa0bfabcf640)
+
+![3](https://github.com/user-attachments/assets/564531a3-9d82-47c0-8134-cd10e3750b4c)
+
 ## Features
 
 - Login to main view
