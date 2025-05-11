@@ -31,3 +31,38 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://https://github.com/AKUSAbeysinghe/MovieApplication.git
 
+   Navigate to the project directory:
+
+bash
+Copy
+Edit
+cd movie_application
+Install the dependencies:
+
+bash
+Copy
+Edit
+npm install
+Set up the environment:
+
+Create a .env file in the root directory of the project.
+
+Add your TMDB API key in the .env file:
+
+ini
+Copy
+Edit
+REACT_APP_TMDB_API_KEY=your_api_key_here
+You can get an API key from TMDB.
+
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+This will start the app at http://localhost:3000.
+
+
+
+
